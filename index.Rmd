@@ -1,0 +1,22 @@
+---
+title: "Matt Pruett"
+image: "tobi.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/matthew-pruett-8860825b/"
+  - label: GitHub
+    url: "https://github.com/pruettm"
+  - label: Email
+    url: "mailto:matthewpruett777@gmail.com"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+
+<!-- earned a BS in Physics from Central Washington University as well as a B.S. in Mechanical Engineering from Washington State University Vancouver and -->
+
+I am an aspiring Data Scientist / Water Resources Engineer. 
+
+I am currently pursuing a M.S. in Water Resources Engineering from Portland State University while working Concurrently as a Reseacrh Associate at Washington State University.
+
+Other than visualizing data, he enjoys the three B’s; biking, backpacking, and baking.
